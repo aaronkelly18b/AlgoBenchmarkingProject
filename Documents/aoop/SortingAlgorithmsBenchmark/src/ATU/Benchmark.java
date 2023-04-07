@@ -67,7 +67,7 @@ public class Benchmark {
 	}
 
 	private static double benchmarkAlgorithm(SortingAlgorithm algorithm, int n) {
-		// Initialize variable to keep track of total time
+		// Initialize variable to keep track of total time N
 		long totalTime = 0;
 
 		// Run sorting algorithm NUM_RUNS times
